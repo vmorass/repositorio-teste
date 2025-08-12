@@ -5,7 +5,7 @@
 <header>bape company</header>
 
 
-<h1>muica orquetral</h1>
+<h1>musica orquestral</h1>
 
 <p>#bape-crocs</p>
 
